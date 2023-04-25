@@ -1,0 +1,7 @@
+# This function multiplies two numbers- comment by abhyas
+def multiply(x, y):
+    if x >= 5:
+        c = x * y
+        return c
+
+#editing the code - ambar
